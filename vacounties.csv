@@ -1,0 +1,134 @@
+county,county_ascii,county_full,county_fips,state_id,state_name,lat,lng,population
+Fairfax,Fairfax,Fairfax County,51059,VA,Virginia,38.8368,-77.277,1145354
+Prince William,Prince William,Prince William County,51153,VA,Virginia,38.7029,-77.4809,481114
+Virginia Beach,Virginia Beach,Virginia Beach City,51810,VA,Virginia,36.7335,-76.0435,457900
+Loudoun,Loudoun,Loudoun County,51107,VA,Virginia,39.0907,-77.6357,420773
+Chesterfield,Chesterfield,Chesterfield County,51041,VA,Virginia,37.3785,-77.587,366019
+Henrico,Henrico,Henrico County,51087,VA,Virginia,37.538,-77.4059,333120
+Chesapeake,Chesapeake,Chesapeake City,51550,VA,Virginia,36.6778,-76.3023,249377
+Norfolk,Norfolk,Norfolk City,51710,VA,Virginia,36.8947,-76.257,236973
+Arlington,Arlington,Arlington County,51013,VA,Virginia,38.8786,-77.1011,235845
+Richmond,Richmond,Richmond City,51760,VA,Virginia,37.5294,-77.4756,227171
+Newport News,Newport News,Newport News City,51700,VA,Virginia,37.105,-76.5181,185118
+Stafford,Stafford,Stafford County,51179,VA,Virginia,38.4207,-77.458,157606
+Alexandria,Alexandria,Alexandria City,51510,VA,Virginia,38.8185,-77.0861,157594
+Spotsylvania,Spotsylvania,Spotsylvania County,51177,VA,Virginia,38.1851,-77.6561,141097
+Hampton,Hampton,Hampton City,51650,VA,Virginia,37.0554,-76.3632,137217
+Albemarle,Albemarle,Albemarle County,51003,VA,Virginia,38.0229,-78.5567,112513
+Hanover,Hanover,Hanover County,51085,VA,Virginia,37.7601,-77.491,110513
+Montgomery,Montgomery,Montgomery County,51121,VA,Virginia,37.1743,-80.3872,99373
+Roanoke,Roanoke,Roanoke City,51770,VA,Virginia,37.2785,-79.958,99213
+Portsmouth,Portsmouth,Portsmouth City,51740,VA,Virginia,36.8453,-76.3554,97384
+Roanoke,Roanoke,Roanoke County,51161,VA,Virginia,37.2693,-80.068,96653
+Suffolk,Suffolk,Suffolk City,51800,VA,Virginia,36.6953,-76.6398,94856
+Frederick,Frederick,Frederick County,51069,VA,Virginia,39.2046,-78.2626,92007
+Rockingham,Rockingham,Rockingham County,51165,VA,Virginia,38.512,-78.8757,83905
+Bedford,Bedford,Bedford County,51019,VA,Virginia,37.3152,-79.5242,79761
+Lynchburg,Lynchburg,Lynchburg City,51680,VA,Virginia,37.4003,-79.1909,79166
+James City,James City,James City County,51095,VA,Virginia,37.3289,-76.7789,78818
+Augusta,Augusta,Augusta County,51015,VA,Virginia,38.1644,-79.1339,77433
+Fauquier,Fauquier,Fauquier County,51061,VA,Virginia,38.7386,-77.8092,73290
+York,York,York County,51199,VA,Virginia,37.2431,-76.5635,70238
+Pittsylvania,Pittsylvania,Pittsylvania County,51143,VA,Virginia,36.8213,-79.3971,60541
+Campbell,Campbell,Campbell County,51031,VA,Virginia,37.2053,-79.0966,55518
+Franklin,Franklin,Franklin County,51067,VA,Virginia,36.992,-79.8811,54838
+Washington,Washington,Washington County,51191,VA,Virginia,36.7244,-81.9598,53985
+Culpeper,Culpeper,Culpeper County,51047,VA,Virginia,38.486,-77.9558,52822
+Harrisonburg,Harrisonburg,Harrisonburg City,51660,VA,Virginia,38.4362,-78.8735,51784
+Henry,Henry,Henry County,51089,VA,Virginia,36.6828,-79.874,50760
+Charlottesville,Charlottesville,Charlottesville City,51540,VA,Virginia,38.0375,-78.4855,46289
+Shenandoah,Shenandoah,Shenandoah County,51171,VA,Virginia,38.8583,-78.5708,44337
+Prince George,Prince George,Prince George County,51149,VA,Virginia,37.1865,-77.2242,42634
+Manassas,Manassas,Manassas City,51683,VA,Virginia,38.7479,-77.4838,42620
+Danville,Danville,Danville City,51590,VA,Virginia,36.5831,-79.4088,42507
+Warren,Warren,Warren County,51187,VA,Virginia,38.9087,-78.2085,40800
+Tazewell,Tazewell,Tazewell County,51185,VA,Virginia,37.125,-81.5606,40392
+Isle of Wight,Isle of Wight,Isle of Wight County,51093,VA,Virginia,36.8912,-76.7259,38898
+Gloucester,Gloucester,Gloucester County,51073,VA,Virginia,37.416,-76.5434,38875
+Louisa,Louisa,Louisa County,51109,VA,Virginia,37.9786,-77.963,38106
+Orange,Orange,Orange County,51137,VA,Virginia,38.2461,-78.014,36593
+Wise,Wise,Wise County,51195,VA,Virginia,36.9752,-82.6212,36105
+Halifax,Halifax,Halifax County,51083,VA,Virginia,36.7669,-78.9366,34013
+Pulaski,Pulaski,Pulaski County,51155,VA,Virginia,37.0636,-80.7144,33841
+Botetourt,Botetourt,Botetourt County,51023,VA,Virginia,37.5571,-79.8124,33734
+Accomack,Accomack,Accomack County,51001,VA,Virginia,37.7644,-75.6334,33367
+Petersburg,Petersburg,Petersburg City,51730,VA,Virginia,37.2043,-77.3913,33261
+Amherst,Amherst,Amherst County,51009,VA,Virginia,37.6048,-79.1452,31426
+Caroline,Caroline,Caroline County,51033,VA,Virginia,38.0267,-77.3472,31181
+Powhatan,Powhatan,Powhatan County,51145,VA,Virginia,37.5502,-77.9152,30503
+Mecklenburg,Mecklenburg,Mecklenburg County,51117,VA,Virginia,36.6804,-78.3627,30367
+Smyth,Smyth,Smyth County,51173,VA,Virginia,36.8438,-81.537,29799
+Carroll,Carroll,Carroll County,51035,VA,Virginia,36.7316,-80.7339,29126
+Wythe,Wythe,Wythe County,51197,VA,Virginia,36.9171,-81.0787,28275
+Fredericksburg,Fredericksburg,Fredericksburg City,51630,VA,Virginia,38.2992,-77.4872,28258
+Winchester,Winchester,Winchester City,51840,VA,Virginia,39.1735,-78.1746,28103
+Dinwiddie,Dinwiddie,Dinwiddie County,51053,VA,Virginia,37.0759,-77.6323,28057
+Fluvanna,Fluvanna,Fluvanna County,51065,VA,Virginia,37.8419,-78.2773,27442
+King George,King George,King George County,51099,VA,Virginia,38.2733,-77.1572,26985
+Russell,Russell,Russell County,51167,VA,Virginia,36.9339,-82.0954,25763
+Staunton,Staunton,Staunton City,51790,VA,Virginia,38.1593,-79.0611,25581
+Salem,Salem,Salem City,51775,VA,Virginia,37.2864,-80.0554,25372
+Goochland,Goochland,Goochland County,51075,VA,Virginia,37.7221,-77.9158,24906
+Fairfax,Fairfax,Fairfax City,51600,VA,Virginia,38.8531,-77.2998,24242
+Page,Page,Page County,51139,VA,Virginia,38.6194,-78.4844,23753
+New Kent,New Kent,New Kent County,51127,VA,Virginia,37.5052,-76.9974,23296
+Hopewell,Hopewell,Hopewell City,51670,VA,Virginia,37.2915,-77.2985,23046
+Rockbridge,Rockbridge,Rockbridge County,51163,VA,Virginia,37.8145,-79.4473,22673
+Waynesboro,Waynesboro,Waynesboro City,51820,VA,Virginia,38.0674,-78.9014,22341
+Lee,Lee,Lee County,51105,VA,Virginia,36.7054,-83.1286,22287
+Prince Edward,Prince Edward,Prince Edward County,51147,VA,Virginia,37.2243,-78.4411,21922
+Scott,Scott,Scott County,51169,VA,Virginia,36.7143,-82.6029,21536
+Greene,Greene,Greene County,51079,VA,Virginia,38.2976,-78.4669,20631
+Buchanan,Buchanan,Buchanan County,51027,VA,Virginia,37.2666,-82.036,20246
+Westmoreland,Westmoreland,Westmoreland County,51193,VA,Virginia,38.112,-76.8042,18480
+Colonial Heights,Colonial Heights,Colonial Heights City,51570,VA,Virginia,37.265,-77.3969,18158
+Southampton,Southampton,Southampton County,51175,VA,Virginia,36.7204,-77.1061,18003
+King William,King William,King William County,51101,VA,Virginia,37.7066,-77.0885,17845
+Patrick,Patrick,Patrick County,51141,VA,Virginia,36.6783,-80.2844,17660
+Manassas Park,Manassas Park,Manassas Park City,51685,VA,Virginia,38.7709,-77.4429,17123
+Bristol,Bristol,Bristol City,51520,VA,Virginia,36.618,-82.1605,17036
+Buckingham,Buckingham,Buckingham County,51029,VA,Virginia,37.5722,-78.5288,16869
+Giles,Giles,Giles County,51071,VA,Virginia,37.3142,-80.7029,16711
+Radford,Radford,Radford City,51750,VA,Virginia,37.1229,-80.5587,16379
+Appomattox,Appomattox,Appomattox County,51011,VA,Virginia,37.3723,-78.8126,16253
+Brunswick,Brunswick,Brunswick County,51025,VA,Virginia,36.7648,-77.859,15965
+Nottoway,Nottoway,Nottoway County,51135,VA,Virginia,37.143,-78.0513,15638
+Floyd,Floyd,Floyd County,51063,VA,Virginia,36.9316,-80.3625,15532
+Williamsburg,Williamsburg,Williamsburg City,51830,VA,Virginia,37.2693,-76.7076,15486
+Grayson,Grayson,Grayson County,51077,VA,Virginia,36.6565,-81.2249,15356
+Alleghany,Alleghany,Alleghany County,51005,VA,Virginia,37.7878,-80.0062,15159
+Clarke,Clarke,Clarke County,51043,VA,Virginia,39.1123,-77.9967,14882
+Nelson,Nelson,Nelson County,51125,VA,Virginia,37.7874,-78.8868,14773
+Falls Church,Falls Church,Falls Church City,51610,VA,Virginia,38.8847,-77.1751,14576
+Dickenson,Dickenson,Dickenson County,51051,VA,Virginia,37.1258,-82.3504,14089
+Madison,Madison,Madison County,51113,VA,Virginia,38.4137,-78.2792,13828
+Martinsville,Martinsville,Martinsville City,51690,VA,Virginia,36.6827,-79.8636,13539
+Amelia,Amelia,Amelia County,51007,VA,Virginia,37.336,-77.9761,13309
+Poquoson,Poquoson,Poquoson City,51735,VA,Virginia,37.1309,-76.3569,12479
+Northampton,Northampton,Northampton County,51131,VA,Virginia,37.344,-75.8772,12132
+Northumberland,Northumberland,Northumberland County,51133,VA,Virginia,37.8873,-76.4195,12007
+Lunenburg,Lunenburg,Lunenburg County,51111,VA,Virginia,36.9462,-78.2406,11988
+Charlotte,Charlotte,Charlotte County,51037,VA,Virginia,37.0116,-78.6616,11563
+Greensville,Greensville,Greensville County,51081,VA,Virginia,36.6759,-77.5596,11373
+Lancaster,Lancaster,Lancaster County,51103,VA,Virginia,37.7345,-76.4632,10866
+Sussex,Sussex,Sussex County,51183,VA,Virginia,36.9218,-77.2618,10866
+Middlesex,Middlesex,Middlesex County,51119,VA,Virginia,37.6303,-76.5698,10738
+Essex,Essex,Essex County,51057,VA,Virginia,37.9428,-76.9519,10602
+Cumberland,Cumberland,Cumberland County,51049,VA,Virginia,37.5121,-78.245,9697
+Richmond,Richmond,Richmond County,51159,VA,Virginia,37.9426,-76.7252,8968
+Mathews,Mathews,Mathews County,51115,VA,Virginia,37.4353,-76.3438,8537
+Franklin,Franklin,Franklin City,51620,VA,Virginia,36.6831,-76.9386,8194
+Rappahannock,Rappahannock,Rappahannock County,51157,VA,Virginia,38.6848,-78.1592,7422
+Lexington,Lexington,Lexington City,51678,VA,Virginia,37.7825,-79.444,7346
+Charles City,Charles City,Charles City County,51036,VA,Virginia,37.3567,-77.0622,6760
+Galax,Galax,Galax City,51640,VA,Virginia,36.666,-80.9176,6687
+King and Queen,King and Queen,King and Queen County,51097,VA,Virginia,37.7186,-76.8953,6681
+Buena Vista,Buena Vista,Buena Vista City,51530,VA,Virginia,37.7319,-79.3569,6639
+Surry,Surry,Surry County,51181,VA,Virginia,37.1098,-76.9002,6546
+Bland,Bland,Bland County,51021,VA,Virginia,37.134,-81.1302,6241
+Covington,Covington,Covington City,51580,VA,Virginia,37.7785,-79.9868,5722
+Emporia,Emporia,Emporia City,51595,VA,Virginia,36.6953,-77.5357,5680
+Craig,Craig,Craig County,51045,VA,Virginia,37.4817,-80.2115,4898
+Bath,Bath,Bath County,51017,VA,Virginia,38.0587,-79.7411,4177
+Norton,Norton,Norton City,51720,VA,Virginia,36.9315,-82.6262,3668
+Highland,Highland,Highland County,51091,VA,Virginia,38.3623,-79.5686,2247
